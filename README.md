@@ -6,3 +6,6 @@
 ## New new push
 - hello~
 
+## new python
+- boy , good!
+- girl , nice.
