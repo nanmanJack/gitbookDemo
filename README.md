@@ -10,4 +10,4 @@
 ## new python
 - boy , good!
 - girl , nice.
-- python , kind~
+- python , sleeping~
